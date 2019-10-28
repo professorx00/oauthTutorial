@@ -1,0 +1,26 @@
+{
+  "name": "oauthTutorial",
+  "version": "1.0.0",
+  "description": "Oauthentication tutorial from net ninja",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/professorx00/oauthTutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/professorx00/oauthTutorial/issues"
+  },
+  "homepage": "https://github.com/professorx00/oauthTutorial#readme",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "passport": "^0.4.0",
+    "passport-google-oauth20": "^2.0.0"
+  }
+}
